@@ -109,6 +109,10 @@ main img{
     margin-bottom: 20px;
     object-fit: cover;
 }
+a img{
+    width: 30px;
+    height: 30px;
+}
 /* article */
 main article{
     margin-top: 40px;
